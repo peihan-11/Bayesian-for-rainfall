@@ -3,6 +3,7 @@
 ## About the Data
 
 Model rainfall data per calendar month for the city of Nashville, Tennessee. It is a classic problem in Bayesian estimation. Here is the steps:
+
 1. Import dataset
 2. Clean dataset
 3. Define the function of model
