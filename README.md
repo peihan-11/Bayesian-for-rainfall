@@ -1,3 +1,5 @@
+## Bayesian for rainfall
+
 ## About the Data
 
 Model rainfall data per calendar month for the city of Nashville, Tennessee. It is a classic problem in Bayesian estimation.
